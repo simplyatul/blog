@@ -1,2 +1,3 @@
-# blog
-A space where I can write something...
+# Collection of my writings.
+
+
