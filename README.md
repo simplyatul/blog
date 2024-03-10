@@ -1,3 +1,1 @@
-# Collection of my writings.
-
 
